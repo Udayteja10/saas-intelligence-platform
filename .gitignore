@@ -1,0 +1,31 @@
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+# Java
+target/
+*.class
+*.jar
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment Files
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Docker Data
+mysql_data/
+redis_data/
+
+# IntelliJ
+*.iml
