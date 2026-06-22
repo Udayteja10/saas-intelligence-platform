@@ -2,6 +2,14 @@
 
 Enterprise-grade Multi-Tenant SaaS Intelligence Platform for managing subscriptions, licenses, vendors, budgets, renewals, forecasting, reporting, and AI-powered cost optimization.
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-green)
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8-blue)
+![Redis](https://img.shields.io/badge/Redis-7-red)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED)
+
 ---
 
 ## Overview
@@ -10,11 +18,27 @@ SubTrack AI helps organizations gain visibility into their SaaS ecosystem by tra
 
 The platform provides analytics, forecasting, reporting, and AI-powered recommendations to reduce unnecessary software spending and improve SaaS governance.
 
-Designed as a real-world enterprise SaaS application, the platform supports multi-tenancy, role-based access control, JWT authentication, organization isolation, and scalable cloud-native deployment.
+---
+
+## Highlights
+
+* Multi-Tenant SaaS Architecture
+* JWT Authentication & Role-Based Access Control (RBAC)
+* Organization-Level Data Isolation
+* SaaS Subscription & License Management
+* Vendor & Contract Management
+* Budget Tracking & Forecasting
+* AI-Powered Cost Optimization
+* Renewal Advisor & Budget Advisor
+* SaaS Health Scoring
+* PDF Report Generation
+* Excel Export
+* Audit Logging & Governance
+* Dockerized Deployment
 
 ---
 
-## Key Features
+## Core Features
 
 ### Multi-Tenant Architecture
 
@@ -167,7 +191,7 @@ MySQL       Redis
 
 ## Database Design
 
-Core entities:
+Core Entities:
 
 * Organization
 * User
@@ -283,23 +307,23 @@ npm run dev
 
 ---
 
-## Future Enhancements
+## Roadmap
 
-* Real Google OAuth Integration
 * Stripe Billing Integration
 * Email Notifications
 * Slack Integration
 * Microsoft Teams Integration
-* OpenAI-Powered Cost Optimization
+* Advanced AI Cost Optimization
 * Advanced Forecasting Models
 * Kubernetes Deployment
 * CI/CD Pipelines
+* Monitoring & Observability
+
+
 
 ---
 
-## Project Goals
-
-This project demonstrates enterprise-level software engineering concepts including:
+## Engineering Concepts Demonstrated
 
 * Multi-Tenant SaaS Architecture
 * Secure Authentication & Authorization
@@ -309,18 +333,5 @@ This project demonstrates enterprise-level software engineering concepts includi
 * Dockerized Deployment
 * Analytics & Reporting
 * AI-Powered Business Insights
-
----
-
-## Project Goals
-
-This project demonstrates enterprise-level software engineering concepts including:
-
-- Multi-Tenant SaaS Architecture
-- Secure Authentication & Authorization
-- Domain-Driven Design
-- REST API Development
-- Database Design
-- Dockerized Deployment
-- Analytics & Reporting
-- AI-Powered Business Insights
+* Enterprise Security Patterns
+* Scalable Full-Stack Architecture
