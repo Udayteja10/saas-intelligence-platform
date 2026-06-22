@@ -297,22 +297,6 @@ npm run dev
 
 ---
 
-## Screenshots
-
-### Dashboard
-
-*Add dashboard screenshot here*
-
-### AI Assistant
-
-*Add AI assistant screenshot here*
-
-### Subscription Management
-
-*Add subscription management screenshot here*
-
----
-
 ## Project Goals
 
 This project demonstrates enterprise-level software engineering concepts including:
@@ -328,8 +312,15 @@ This project demonstrates enterprise-level software engineering concepts includi
 
 ---
 
-## Author
+## Project Goals
 
-Uday Teja
+This project demonstrates enterprise-level software engineering concepts including:
 
-Built as a portfolio project demonstrating modern Java Full Stack development using Java 21, Spring Boot, React, TypeScript, MySQL, Redis, Docker, and enterprise SaaS architecture.
+- Multi-Tenant SaaS Architecture
+- Secure Authentication & Authorization
+- Domain-Driven Design
+- REST API Development
+- Database Design
+- Dockerized Deployment
+- Analytics & Reporting
+- AI-Powered Business Insights
